@@ -1,0 +1,5 @@
+Epoch 1: 99.57%
+Epoch 2: 99.55%
+Epoch 3: 99.70%
+Epoch 4: 99.51%
+Epoch 5: 99.62%
